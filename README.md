@@ -13,7 +13,7 @@
 
 * Keep your notes and reminders.
 * Add your favorite images.
-* Choose a background color that matches your mood.
+* Pick a background color that matches your mood.
 * Check comfortably what day it's today.
 * Don´t worry about privacy. Everything is stored locally.
 
@@ -31,9 +31,9 @@
 
 ### Credits
 
-[Material Design Icons](https://material.io/tools/icons/)
-[Draggabilly](https://draggabilly.desandro.com/)
-[Rubik Font](https://fonts.google.com/specimen/Rubik)
+* [Material Design Icons](https://material.io/tools/icons/)
+* [Draggabilly](https://draggabilly.desandro.com/)
+* [Rubik Font](https://fonts.google.com/specimen/Rubik)
 
 ### License
 
