@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>New Tab</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <link href="https://fonts.googleapis.com/css?family=Rubik" rel="stylesheet">
+    <script src="js/draggabilly.pkgd.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+
+<body>
+    <h1 class="date"></h1>
+
+    <div class="add-notes">
+        <svg class="icon add-note" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+            <title>New note</title>
+            <path d="M0 0h24v24H0z" fill="none" />
+            <path d="M14 2H6c-1.1 0-1.99.9-1.99 2L4 20c0 1.1.89 2 1.99 2H18c1.1 0 2-.9 2-2V8l-6-6zm2 14h-3v3h-2v-3H8v-2h3v-3h2v3h3v2zm-3-7V3.5L18.5 9H13z" />
+        </svg>
+        <input type="file" accept="image/*">
+        <svg class="icon add-image" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+            <title>New image</title>
+            <path d="M19 7v2.99s-1.99.01-2 0V7h-3s.01-1.99 0-2h3V2h2v3h3v2h-3zm-3 4V8h-3V5H5c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2v-8h-3zM5 19l3-4 2 3 3-4 4 5H5z" />
+            <path d="M0 0h24v24H0z" fill="none" />
+        </svg>
+    </div>
+
+    <div class="change-background">
+        <input type="color" value="#00e487">
+        <svg class="icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+            <title>Background color</title>
+            <path d="M0 0h24v24H0z" fill="none" />
+            <path d="M20.71 5.63l-2.34-2.34c-.39-.39-1.02-.39-1.41 0l-3.12 3.12-1.93-1.91-1.41 1.41 1.42 1.42L3 16.25V21h4.75l8.92-8.92 1.42 1.42 1.41-1.41-1.92-1.92 3.12-3.12c.4-.4.4-1.03.01-1.42zM6.92 19L5 17.08l8.06-8.06 1.92 1.92L6.92 19z" />
+        </svg>
+    </div>
+
+    <div class="note" style="visibility: hidden">
+        <div class="note-header"></div>
+        <p contenteditable="true" placeholder="Write something here..."></small>
+        </p>
+    </div>
+
+    <div class="image" style="visibility: hidden">
+        <div class="image-header"></div>
+        <img src="" />
+    </div>
+
+    <script src="js/script.js"></script>
+</body>
+
+</html>
