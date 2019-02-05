@@ -5,7 +5,7 @@
 [![chrome web store](https://img.shields.io/chrome-web-store/users/noiknbafehnhbnalgmoddejejgmkadhb.svg?label=chrome%20users)](https://chrome.google.com/webstore/detail/less-boring-new-tab/noiknbafehnhbnalgmoddejejgmkadhb)
 [![firefox add-on](https://img.shields.io/amo/users/less-boring-new-tab.svg?label=firefox%20users)](https://addons.mozilla.org/en-US/firefox/addon/less-boring-new-tab)
 
-### Replace the boring default new tab page in Google Chrome and Firefox with a more fancy one :sparkles:
+#### Replace the boring default new tab page in Google Chrome and Firefox with a more fancy one :sparkles:
 
 ![Less Boring New Tab](https://user-images.githubusercontent.com/13858689/51928484-55cdfa00-23f6-11e9-8c58-f83fa7965c1e.gif)
 
