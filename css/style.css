@@ -1,0 +1,100 @@
+html,
+body {
+    display: block;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    font-size: 1em;
+    border: 1.8em solid #000;
+    overflow: hidden;
+    box-sizing: border-box;
+}
+
+h1.date {
+    position: absolute;
+    top: 1em;
+    right: 1.3em;
+    margin: 0;
+    font-size: 5em;
+    font-family: 'Rubik', sans-serif;
+    user-select: none;
+}
+
+.note {
+    position: absolute !important;
+    background-color: #fff;
+    font-family: 'Rubik', sans-serif;
+    max-height: 60vh;
+    max-width: 25vw;
+    z-index: 1;
+}
+
+/* 
+.note:after {
+    background: linear-gradient(-45deg, transparent 1em, #fff 0),
+    linear-gradient(45deg, transparent 1em, #fff 0);
+    background-size: 1em 1em;
+    content: "";
+    width: 100%;
+    height: 1em;
+    position: absolute;
+} */
+
+.note-header {
+    padding: 1em;
+    background-color: #000;
+    cursor: move;
+}
+
+.note p {
+    margin: 1em;
+    text-align: left;
+}
+
+.note p[contenteditable=true]:empty::before {
+    content: attr(placeholder);
+}
+
+.image {
+    position: absolute !important;
+    display: inline-block;
+}
+
+.image-header {
+    padding: 1em;
+    background-color: #000;
+    cursor: move;
+}
+
+.image img {
+    max-height: 60vh;
+    user-select: none;
+}
+
+.icon {
+    height: 2.6em;
+    width: 2.6em;
+    cursor: pointer;
+}
+
+.add-notes {
+    position: absolute;
+    left: 4em;
+    bottom: 4em;
+    user-select: none;
+    z-index: 1;
+}
+
+.change-background {
+    position: absolute;
+    right: 4em;
+    bottom: 4em;
+    user-select: none;
+    z-index: 1;
+}
+
+input[type="color"],
+input[type="file"] {
+    display: none;
+}
