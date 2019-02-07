@@ -1,4 +1,4 @@
-<p align="center"><img width="220px" src="https://github.com/albertocc/Less-Boring-New-Tab/blob/master/img/gifs/note_icon_animated.gif"/><p>
+<p align="center"><img width="220px" src="https://github.com/albertocc/Less-Boring-New-Tab/blob/master/img/gifs/note_icon_animated.gif"/></p>
 <h1 align="center">Less Boring New Tab</h1>
 
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/albertocc/Less-Boring-New-Tab/blob/master/LICENSE)
