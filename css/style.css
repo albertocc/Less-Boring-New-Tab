@@ -1,3 +1,12 @@
+@font-face {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Rubik'), local('Rubik-Regular'),
+        url('../fonts/Rubik-Regular.woff2') format('woff2'),
+        url('../fonts/Rubik-Regular.woff') format('woff');
+}
+
 html,
 body {
     display: block;
@@ -14,7 +23,7 @@ body {
 h1.date {
     position: absolute;
     top: 1em;
-    right: 1.3em;
+    right: 1.2em;
     margin: 0;
     font-size: 5em;
     font-family: 'Rubik', sans-serif;
@@ -29,17 +38,6 @@ h1.date {
     max-width: 25vw;
     z-index: 1;
 }
-
-/* 
-.note:after {
-    background: linear-gradient(-45deg, transparent 1em, #fff 0),
-    linear-gradient(45deg, transparent 1em, #fff 0);
-    background-size: 1em 1em;
-    content: "";
-    width: 100%;
-    height: 1em;
-    position: absolute;
-} */
 
 .note-header {
     padding: 1em;
