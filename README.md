@@ -29,6 +29,14 @@
 
 [![Add to Firefox](https://addons.cdn.mozilla.net/static/img/addons-buttons/AMO-button_1.png)](https://addons.mozilla.org/en-US/firefox/addon/less-boring-new-tab)
 
+### Add to Edge
+
+[Add to Edge](https://microsoftedge.microsoft.com/addons/detail/less-boring-new-tab/nofdfgggjpiaomcnooaonkijabcalgjb)
+
+### Add to Naver Whale
+
+[Add to Whale](https://store.whale.naver.com/detail/kpeockpjflkoohoimdkppalkjckepjhb)
+
 ### Credits
 
 * [Material Design Icons](https://material.io/tools/icons/)
