@@ -31,11 +31,11 @@
 
 ### Add to Edge
 
-[Add to Edge](https://microsoftedge.microsoft.com/addons/detail/less-boring-new-tab/nofdfgggjpiaomcnooaonkijabcalgjb)
+[Get the extension](https://microsoftedge.microsoft.com/addons/detail/less-boring-new-tab/nofdfgggjpiaomcnooaonkijabcalgjb)
 
 ### Add to Naver Whale
 
-[Add to Whale](https://store.whale.naver.com/detail/kpeockpjflkoohoimdkppalkjckepjhb)
+[Get the extension](https://store.whale.naver.com/detail/kpeockpjflkoohoimdkppalkjckepjhb)
 
 ### Credits
 
