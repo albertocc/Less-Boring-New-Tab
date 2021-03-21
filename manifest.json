@@ -1,8 +1,8 @@
 {
 	"name": "Less Boring New Tab",
 	"short_name": "LBNT",
-	"description": "Redesigned new tab page.",
-	"version": "1.3",
+	"description": "Redesigned new tab page",
+	"version": "1.4",
 	"author": "Alberto Cabeza Cardiel",
 	"manifest_version": 2,
 	"icons": {

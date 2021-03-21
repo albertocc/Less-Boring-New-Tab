@@ -23,7 +23,7 @@
 
 ### Add to Chrome
 
-[![Add to Chrome](https://developer.chrome.com/webstore/images/ChromeWebStore_BadgeWBorder_v2_206x58.png)](https://chrome.google.com/webstore/detail/less-boring-new-tab/noiknbafehnhbnalgmoddejejgmkadhb)
+[![Add to Chrome](https://storage.googleapis.com/chrome-gcs-uploader.appspot.com/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/UV4C4ybeBTsZt43U4xis.png)](https://chrome.google.com/webstore/detail/less-boring-new-tab/noiknbafehnhbnalgmoddejejgmkadhb)
 
 ### Add to Firefox
 
